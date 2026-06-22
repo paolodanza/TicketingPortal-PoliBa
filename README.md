@@ -43,7 +43,7 @@ The project is designed to be easily hosted on a local environment.
 
 1.  **Clone the repository:**
     ```bash
-    git clone [url repo](https://github.com/paolodanza/TicketingPortal-PoliBa.git)
+    git clone https://github.com/paolodanza/TicketingPortal-PoliBa.git
     cd your-repo-name
     ```
 

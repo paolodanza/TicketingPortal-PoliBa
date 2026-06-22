@@ -1,0 +1,118 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 674px;
+}
+
+.u-section-1 .u-group-1 {
+  width: 886px;
+  --radius: 10px;
+  height: auto;
+  border-style: solid;
+  box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
+  min-height: 503px;
+  margin: 60px auto;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 12px 0;
+}
+
+.u-section-1 .u-text-1 {
+  margin: 16px auto 0;
+}
+
+.u-section-1 .u-icon-1 {
+  font-size: 2.6876em;
+}
+
+.u-section-1 .u-text-2 {
+  margin: 33px 0 0;
+}
+
+.u-section-1 .u-text-3 {
+  margin: 33px 0 0;
+}
+
+.u-section-1 .u-text-4 {
+  text-shadow: 2px 0 0 rgba(0,0,0,0);
+  width: 63px;
+  margin: 31px auto 0;
+}
+
+.u-section-1 .u-icon-2 {
+  font-size: 2em;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-group-1 {
+    height: auto;
+  }
+
+  .u-section-1 .u-text-4 {
+    transition-duration: 0.5s;
+    transform: rotate(0deg) scale(1) translateX(0px) translateY(0px);
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-group-1 {
+    width: 720px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: 262px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 58px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-top: 36px;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-top: 16px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-group-1 {
+    width: 540px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: 328px;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-top: 42px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-group-1 {
+    width: 340px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: 295px;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-top: 22px;
+  }
+}
+
+.u-section-1 .u-text-4,
+.u-section-1 .u-text-4:before,
+.u-section-1 .u-text-4 > .u-container-layout:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, image-zoom, background-size, background-position;
+}
+
+.u-section-1 .u-text-4.u-text-4.u-text-4:hover {
+  transform: scale(1.1) translateX(0px) translateY(0px) !important;
+}
+
+.u-section-1 .u-text-4.u-text-4.u-text-4.hover {
+  transform: scale(1.1) translateX(0px) translateY(0px) !important;
+}
